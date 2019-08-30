@@ -15,6 +15,6 @@
         "php": ">=5.3.2"
     },
     "autoload": {
-        "psr-4": { "samaphp\\validateSAID": "src" }
+        "psr-4": { "samaphp\\validateSAID\\": "src" }
     }
 }
