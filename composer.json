@@ -1,0 +1,20 @@
+{
+    "name": "samaphp/test-id",
+    "description": "Test composer package. It is a mirror of top7up/ID github repo. For testing only! Please do not use this package.",
+    "keywords": ["test"],
+    "license": "GPL-2.0-only",
+    "authors": [
+        {
+            "name": "Saud bin mohammed",
+            "email": "saud@samaphp.com",
+            "homepage": "https://samaphp.com",
+            "role": "Software engineer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.2"
+    },
+    "autoload": {
+        "psr-0": { "samaphp\\validateSAID": "" }
+    }
+}
