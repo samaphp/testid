@@ -24,7 +24,7 @@
 // ----------------------------------------------------------------------
 // Bismillah..
 
-namespace samaphp\testid;
+namespace samaphp;
 
 class validateSAID {
 	var $stype = array(
